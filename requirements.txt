@@ -1,5 +1,5 @@
 nbgitpuller
 matplotlib==3.5.1
-numpy==1.22.0
+numpy==1.19.5
 pandas==1.3.5
 seaborn==0.11.2
